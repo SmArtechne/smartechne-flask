@@ -14,6 +14,11 @@ In Flask, the jpg stored in S3 extracts the current seat status information of t
 As a result, the Flask responds in json form with the temperature, humidity, the number of seats remaining, and the number of seats currently unavailable.
 <br>
 <br>
+### System Architecture
+---
+![시스템 아키텍처](https://github.com/SmArtechne/smartechne-flask/assets/70840463/0eaed704-3d20-4a9d-97ae-c6681ef47c7f)
+<br>
+<br>
 ### This is a picture that was tested with a Postman.
 ---
 ![API_포스트맨](https://github.com/SmArtechne/smartechne-flask/assets/70840463/b07c0f55-37f5-40f3-857d-3cbac663a116)
